@@ -2,31 +2,31 @@
 
 ## Project Overview
 
-Enterprise environments depend on reliable infrastructure to support communication, security, virtualization, and day-to-day operations. Building and maintaining these environments requires careful planning, accurate system configuration, and continuous validation to ensure that every component functions together effectively.
+Enterprise infrastructure is the foundation of modern technology environments, supporting communication, virtualization, security, and day-to-day operations. Successfully implementing these environments requires careful planning, accurate system configuration, continuous testing, and structured troubleshooting.
 
-This case study documents the implementation of a virtualized enterprise network environment completed in the Center for Applied Cyber Education (CACE) Lab at Georgia Southern University. The project focused on transforming existing hardware into a functional enterprise-style infrastructure that could support virtualization, networking, firewall configuration, VoIP connectivity, and system validation. :contentReference[oaicite:0]{index=0}
-
----
-
-## The Challenge
-
-The lab environment contained multiple enterprise technologies that required proper configuration before they could operate as a cohesive network.
-
-The challenge extended beyond installing hardware. It involved understanding how servers, virtualization platforms, firewalls, networking equipment, and endpoint devices communicate while identifying and resolving configuration issues that affected connectivity and performance. :contentReference[oaicite:1]{index=1}
+This case study documents the implementation of an enterprise network infrastructure completed in the Center for Applied Cyber Education (CACE) Lab at Georgia Southern University. The project focused on transforming available hardware into a fully functional enterprise environment capable of supporting virtualization, networking, firewall configuration, VoIP communication, and system validation.
 
 ---
 
-## My Role
+# The Challenge
 
-Throughout the project, I contributed to configuring enterprise systems, supporting virtualization, analyzing network behavior, troubleshooting connectivity issues, validating configurations, and documenting technical findings.
+The lab environment consisted of multiple enterprise technologies that needed to be configured to operate as a unified infrastructure.
 
-This hands-on experience strengthened my understanding of enterprise infrastructure while reinforcing the importance of systematic problem-solving throughout the implementation process. :contentReference[oaicite:2]{index=2}
+The challenge extended beyond connecting hardware. It required understanding how servers, virtual machines, firewalls, networking devices, and communication systems interact while identifying and resolving configuration issues that affected connectivity, routing, and overall system performance.
 
 ---
 
-## Technologies
+# My Role
 
-The implementation included experience with:
+Throughout the implementation, I contributed to configuring enterprise systems, supporting virtualization using Proxmox, analyzing network behavior, troubleshooting connectivity issues, validating system configurations, and documenting technical findings.
+
+Working with enterprise technologies in a hands-on environment strengthened my understanding of infrastructure implementation while reinforcing the importance of systematic problem solving and technical documentation.
+
+---
+
+# Technologies Utilized
+
+This implementation included experience with:
 
 - Dell PowerEdge Server
 - Proxmox Virtualization
@@ -42,9 +42,11 @@ The implementation included experience with:
 
 ---
 
-## Key Skills Demonstrated
+# Skills Demonstrated
 
-- Enterprise Infrastructure
+Throughout the project, I developed and strengthened skills in:
+
+- Enterprise Infrastructure Implementation
 - Virtualization
 - Network Configuration
 - Firewall Configuration
@@ -56,8 +58,8 @@ The implementation included experience with:
 
 ---
 
-## Executive Summary
+# Executive Summary
 
-This project provided practical experience implementing and validating an enterprise network environment while demonstrating how virtualization, networking, and security technologies operate together within modern infrastructure.
+This project provided practical experience implementing and validating an enterprise network environment while demonstrating how virtualization, networking, and security technologies work together within modern infrastructure.
 
-Beyond developing technical skills, the project reinforced a structured approach to troubleshooting, documentation, validation, and continuous learning—foundational principles that support successful enterprise technology implementations. :contentReference[oaicite:3]{index=3}
+Beyond strengthening my technical knowledge, the experience reinforced the value of structured troubleshooting, careful documentation, continuous validation, and analytical problem solving—core principles that support successful enterprise technology implementations.
